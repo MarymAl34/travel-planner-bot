@@ -29,7 +29,7 @@ Input: destination, days, budget, traveler type, interests
 Output: structured travel plan (Markdown)
 Communication: REST API via Python (OpenAI client)
 
-🖥️ UI/UX Design
+UI/UX Design
 The interface is built in Streamlit and includes:
 Language selector
 Destination input

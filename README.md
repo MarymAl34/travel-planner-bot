@@ -39,3 +39,9 @@ Traveler type selector
 Multi-interest selector
 Button to generate the plan
 Results container with formatted Markdown output
+1)Application Interface
+![Interface](Screenshot%202025-11-23%20090946.png)
+
+2)Generated Travel Plan Example
+![Output](Screenshot%202025-11-23%20091212.png)
+

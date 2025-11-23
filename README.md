@@ -45,3 +45,11 @@ Results container with formatted Markdown output
 2)Generated Travel Plan Example
 ![Output](Screenshot%202025-11-23%20091212.png)
 
+How to Run (Google Colab)
+Open the Colab notebook.
+Install dependencies (Streamlit, OpenAI).
+Add your OpenAI API key in the notebook.
+Download the app.py file from GitHub.
+Run the Streamlit server in the background.
+Create a public link using Cloudflare Tunnel.
+Open the generated link to use the Travel Planner Bot.

@@ -53,3 +53,7 @@ Download the app.py file from GitHub.
 Run the Streamlit server in the background.
 Create a public link using Cloudflare Tunnel.
 Open the generated link to use the Travel Planner Bot.
+
+
+
+Prepared by: Marym Alsindi
